@@ -26,3 +26,4 @@ C:\Users\eduar\Desktop\Lipe Facultoso\Backend\Aula-3-backend\ApiCatalogoDeJogos\
 C:\Users\eduar\Desktop\Lipe Facultoso\Backend\Aula-3-backend\ApiCatalogoDeJogos\obj\Debug\net10.0\ApiCatalogoDeJogos.pdb
 C:\Users\eduar\Desktop\Lipe Facultoso\Backend\Aula-3-backend\ApiCatalogoDeJogos\obj\Debug\net10.0\ApiCatalogoDeJogos.genruntimeconfig.cache
 C:\Users\eduar\Desktop\Lipe Facultoso\Backend\Aula-3-backend\ApiCatalogoDeJogos\obj\Debug\net10.0\ref\ApiCatalogoDeJogos.dll
+C:\Users\eduar\Desktop\Lipe Facultoso\Backend\Aula-3-backend\ApiCatalogoDeJogos\obj\Debug\net10.0\ApiCatalogoDeJogos.sourcelink.json
